@@ -9,7 +9,7 @@ spring:
         git:
           uri: https://github.com/AlanLuque24/trabajo-NOE-3.git # ruta del repositorio git
           searchPaths: config-data
-          default-label: circuitbreaker
+          default-label: Main
   security:
     user:
       name: root
